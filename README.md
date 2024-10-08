@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Anubis73&label=Profile%20views&color=0e75b6&style=flat" alt="Anubis73" /> </p>
 
-- 🔭 I’m currently working on [Animales de Investigacion]((https://anubis73.github.io/G17-M5/))
+- 🔭 I’m currently working on [Animales de Investigacion](https://anubis73.github.io/G17-M5/)
 - 🌱 I’m currently learning **Desarrollo de App Front-End**
 - A passionate frontend developer from Chile
 
